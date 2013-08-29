@@ -14,5 +14,9 @@
     "angular"
   ],
   "author": "Ryan Schmukler <ryan@slingingcode.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "batch": "~0.5.0",
+    "debug": "~0.7.2"
+  }
 }
